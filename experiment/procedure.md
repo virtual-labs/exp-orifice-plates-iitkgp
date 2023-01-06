@@ -56,8 +56,14 @@ Then do the same process for 3 or 4 time, then click on the button "Ok" to plot 
 <div align="center">
 <img src="images/pro_sim_9.jpg" width="40%">
 </div>
+<div align="center">
+<img src="images/pro_sim_10.jpg" width="40%">
+</div>
+<div align="center">
+<img src="images/pro_sim_11.jpg" width="40%">
+</div>
 
 Then add Best fit line and then print the graph by clicking the print button.
 <div align="center">
-<img src="images/pro_sim_10.jpg" width="40%">
+<img src="images/pro_sim_12.jpg" width="40%">
 </div>
