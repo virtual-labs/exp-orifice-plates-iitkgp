@@ -1,6 +1,5 @@
-
 /* Lab:exp_4_Calibration of orifice plates
-	 File name: main.js
+	 File name: exp4main.js
    Author:Prakriti Dhang
 */
 var imgobj1 = null;
