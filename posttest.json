@@ -1,0 +1,17 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Cross-section area ratio of plate of orifice opening with the duct opening is",
+      "answers": {
+        "a": "A<sub>2</sub>/A<sub>1</sub>",
+        "b": "A<sub>2</sub>-A<sub>1</sub>",
+        "c": "A<sub>2</sub>+A<sub>1</sub>",
+        "d": "A<sub>2</sub>*A<sub>1</sub>"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
