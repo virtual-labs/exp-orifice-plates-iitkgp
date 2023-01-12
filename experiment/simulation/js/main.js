@@ -1,5 +1,6 @@
 
-/* Lab:exp_4_Calibration of orifice plates
+/* LLab:Mine Automation and Virtual Reatlity
+ Exp: Calibration of orifice plates
 	 File name: main.js
    Author:Prakriti Dhang
 */
