@@ -1,4 +1,5 @@
-/* Lab:exp_4_Calibration of orifice plates
+/* Lab:Mine Automation and Virtual Reatlity
+ Exp: Calibration of orifice plates
 	 File name: addinptotable.js
    Author:Prakriti Dhang
 */
