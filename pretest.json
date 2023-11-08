@@ -1,0 +1,17 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Air quantity will be determined by multiplying the area with air velocity measured by the anemometer.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+       
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+    
+  ]
+}
